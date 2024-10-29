@@ -19,6 +19,7 @@ Feel free to contact me using any method at your convenience!
 ## Work Experience
 
 **Full-Stack Developer** ( _June 2023 - present_ )
+
 Creating my own projects and projects for customers (landing pages, e-commerce). Tasks include:
 
 - arranging meetings with customers (kick-off meetings, demonstrations);
@@ -36,6 +37,7 @@ Creating my own projects and projects for customers (landing pages, e-commerce).
 - Created a Checkout page with Stripe as a payment system
 
 Click to visit:
+
 [Live Project](https://medley-apparel.netlify.app/)
 [GitHub Repo](https://github.com/Taras-Klimenko/medley-apparel)
 
@@ -47,6 +49,7 @@ Click to visit:
 - Pages structure can be reordered by drag-and-drop
 
 Click to visit:
+
 [Live Project](https://moonlit-conkies-e288a8.netlify.app/)
 [GitHub Repo](https://github.com/Taras-Klimenko/e-note-taking-system)
 
@@ -63,8 +66,17 @@ function findNextSquare(sq) {
 ## Education
 
 **North-Western State Medical University named after I. I. Mechnikov** (_Saint-Petersburg, 2006-2012_)
+
 Faculty of Preventive Medicine
 
 ## Skills
 
+**Languages:** JavaScript, TypeScript, SQL, HTML/CSS
+
+**Frameworks & Libraries:** React, Next.js, Node.js, Express, SCSS, Tailwind CSS
+
 ## Languages
+
+- **Russian:** native
+- **English:** Full Professional
+- **Czech:** Limited Working
