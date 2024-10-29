@@ -38,7 +38,7 @@ Creating my own projects and projects for customers (landing pages, e-commerce).
 
 Click to visit:
 
-[Live Project](https://medley-apparel.netlify.app/)
+[Live Project](https://medley-apparel.netlify.app/) || &nbsp;
 [GitHub Repo](https://github.com/Taras-Klimenko/medley-apparel)
 
 **E-Note System** ( _React, TypeScript, CSS / HTML, PostgreSQL_ )
@@ -50,7 +50,7 @@ Click to visit:
 
 Click to visit:
 
-[Live Project](https://moonlit-conkies-e288a8.netlify.app/)
+[Live Project](https://moonlit-conkies-e288a8.netlify.app/) || &nbsp;
 [GitHub Repo](https://github.com/Taras-Klimenko/e-note-taking-system)
 
 ## Code Examples
